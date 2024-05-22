@@ -22,6 +22,21 @@ O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Ta
 *  R Para Data Science
 *  Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython
 
+## 📕 Próximos livros que lerei...
+* Data Science Para Negócios
+* Data Science do Zero: Noções Fundamentais com Python
+
+##  📡 Mídia Social
+
+* [Kaggle])(https://www.kaggle.com/cssiolanna)
+* [LinkedIn](www.linkedin.com/in/cassio-lanna-2261071a7)
+
+## Languages and Tools 
+<div>
+
+### Languages:
+| Python3 | SQL | R | Solidity |
+
 <!--
 **lannacassio/lannacassio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
