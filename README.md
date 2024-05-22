@@ -28,7 +28,7 @@ O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Ta
 
 ##  📡 Mídia Social
 
-* [Kaggle])(https://www.kaggle.com/cssiolanna)
+* [Kaggle](https://www.kaggle.com/cssiolanna)
 * [LinkedIn](www.linkedin.com/in/cassio-lanna-2261071a7)
 
 ## Languages and Tools 
