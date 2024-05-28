@@ -13,7 +13,6 @@ O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Ta
 
 ## 🌱 Atualmente estou aprendendo...
 
-* Estatística para Análise de Dados com Python
 * Python
 * R
 
