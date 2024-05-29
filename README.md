@@ -25,6 +25,19 @@ O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Ta
 * Data Science Para Negócios
 * Data Science do Zero: Noções Fundamentais com Python
 
+## 📚 Alguns projetos...
+* **Cyclistic** [aqui](https://github.com/lannacassio/Projeto-Cyclist.git)
+  
+  Análise de dados do compartilhamento de bicicletas da Cyclistic utilizando R e Tableau.
+
+* **Dashboard de vendas** [aqui](https://github.com/lannacassio/Dashboard_vendas.git)
+  
+  Análise de dados do desempenho de cada loja em um e-commerce de veículos utilizando SQL e Tableau.
+
+* **Sample- Superstore Sales** [aqui](https://github.com/lannacassio/Sample---Superstore-Sales.git)
+  
+  Análise de dados para responder 10 perguntas de negócio a partir de um dataset sobre uma rede de varejo utilizando Python.
+
 ##  📡 Mídia Social
 
 * [Kaggle](https://www.kaggle.com/cssiolanna)
