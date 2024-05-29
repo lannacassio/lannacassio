@@ -11,7 +11,7 @@ Enquanto estava estudando para o curso, consegui uma vaga para o curso de Google
 
 O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Tableau, de modo que eu o considero muito especial.
 
-## 🌱 Atualmente estou aprendendo...
+## 🌱 Eterno Aprendiz...
 
 * Python
 * R
