@@ -44,6 +44,11 @@ O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Ta
 |----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
+### Minhas ferramentas para Data Manipulation:
+| VSCode | Conda | Jupyter | Postgres |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|
+
 <!--
 **lannacassio/lannacassio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
