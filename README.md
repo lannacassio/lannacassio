@@ -34,7 +34,8 @@ O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Ta
 <div>
 
 ### Languages:
-| Python3 | SQL | R | Solidity |
+| Python3 | SQL | R |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg" title = "R" width="55" height="55"/>
 
 <!--
 **lannacassio/lannacassio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
