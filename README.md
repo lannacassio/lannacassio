@@ -78,7 +78,7 @@ Planejo em Fevereiro de 2026 inicializar a especialização em Analytics e Busin
 ### Visualização de Dados
 | Power BI|
 |----------|
-| <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power%20BI.svg" title="Power BI" widht="55" height="55"/>|
+| <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Power%20BI.svg" title="Power BI" widht="55" height="55"/>|
 
 <!--
 **lannacassio/lannacassio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
