@@ -75,6 +75,11 @@ Planejo em Fevereiro de 2026 inicializar a especialização em Analytics e Busin
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|
 
+### Visualização de Dados
+| Power BI|
+|----------|
+| <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power%20BI.svg" title="Power BI" widht="55" height="55"/>|
+
 <!--
 **lannacassio/lannacassio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
