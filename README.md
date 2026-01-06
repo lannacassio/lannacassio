@@ -7,8 +7,6 @@ Durante a graduação fiquei perdido sobre o que fazer após me formar, então e
 
 Concluindo as etapas e aprendendo o básico da área, fiz um teste e entrevista de modo que fui qualificado a fazer o curso completo de Ciência de Dados e fazendo um projeto ao final do curso utilizando dados reais da empresa. 
 
-Enquanto estava estudando para o curso, consegui uma vaga para o curso de Google Data Analytics ministrada pelo Google na Coursera, onde me apaixonei pela área e tenho estudado cada vez mais sobre assuntos relacionados. 
-
 O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Tableau, de modo que eu o considero muito especial.
 
 ## 📚 Alguns projetos...
