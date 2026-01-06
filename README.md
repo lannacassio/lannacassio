@@ -28,7 +28,8 @@ O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Ta
 ## 🌱 Eterno Aprendiz...
 
 * Python
-* R
+* Excel
+* Power BI
 
 ## 📖 Atualmente estou lendo...
 
