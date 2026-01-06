@@ -9,6 +9,15 @@ Concluindo as etapas e aprendendo o básico da área, fiz um teste e entrevista 
 
 O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Tableau, de modo que eu o considero muito especial.
 
+Em 2023 trabalhei como docente de ensino de matemática em uma instituição pública, mas após a experiência percebi não ser algo do qual eu ansiava para o meu futuro. 
+
+Em 2024 decidi tentar ingressar  no mercado empresarial, porém não obrtive muita sorte por causa da minha falta de experiência. Deste modo trabalhei por mais de um ano em um supermercado para juntar dinheiro e 
+fazer o curso de Análise de Dados da DNC, onde melhorei o conhecimento em Excel, Python, SQL e Power BI.
+
+Em dezembro de 2025 consegui uma bolsa e inicalizei o curso Certificado Profissional de Análise de dados do Google [aqui](https://www.coursera.org/programs/analise-de-dados-2025-r6bop/professional-certificates/google-data-analytics?collectionId=FJOvw) onde estou adquirindo conhecimentos e habilidades em Ética, Validação, Limpeza, Storytelling e Visualização de Dados. Além disso, refinarei os meus conhecimentos em planilhas com o Google Sheets, SQL, a linguagem R e Tableau.
+
+Planejo em Fevereiro de 2026 inicializar a especialização em Analytics e Business Intelligence pela instituição da PUC Minas para me tornar um profissional capacitado e inicializar na área de dados. 
+
 ## 📚 Alguns projetos...
 
 * **Cyclistic** [aqui](https://github.com/lannacassio/Projeto-Cyclist.git)
