@@ -32,12 +32,13 @@ O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Ta
 
 ## 📖 Atualmente estou lendo...
 
-*  R Para Data Science
+* Storytelling com Dados: um Guia Sobre Visualização de Dados Para Profissionais de Negócios
 *  Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython
 
 ## 📕 Próximos livros que lerei...
 * Data Science Para Negócios
 * Data Science do Zero: Noções Fundamentais com Python
+* R Para Data Science
 
 
 
@@ -50,9 +51,10 @@ O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Ta
 <div>
 
 ### Linguagens:
-| Python3 | R |
+| Python3 | R | SQL|
 |----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg" title = "R" width="55" height="55"/>
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg" title = "R" width="55" height="55"/> | 
+<img src ="icons/sqlite/sqlite-original.svg" title="SQL" width="55" height="55"/>
 
 ### Melhores frameworks e principais bibliotescas de Python3:
 
