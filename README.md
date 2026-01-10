@@ -33,6 +33,18 @@ Planejo em Fevereiro de 2026 inicializar a especialização em Analytics e Busin
   
   Análise de dados para responder 10 perguntas de negócio a partir de um dataset sobre uma rede de varejo utilizando Python.
 
+## 🎒 Estou estudando no momento...
+
+* Certificado Profissional de Análise de dados do Google
+
+## 🎓 Histórico Acadêmico...
+
+* Matemática Bacharelado (UFU)
+* Análise de Dados (DNC)
+
+## 💾 Certificados...
+* Certificados[aqui]
+
 ## 🌱 Eterno Aprendiz...
 
 * Python
