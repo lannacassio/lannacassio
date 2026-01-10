@@ -43,7 +43,7 @@ Planejo em Fevereiro de 2026 inicializar a especialização em Analytics e Busin
 * Análise de Dados (DNC)
 
 ## 💾 Certificados...
-* Certificados[aqui]
+* Certificados[aqui](https://github.com/lannacassio/Certificados)
 
 ## 🌱 Eterno Aprendiz...
 
