@@ -27,7 +27,7 @@ Planejo em Fevereiro de 2026 inicializar a especialização em Analytics e Busin
 
 * **Vendas de Bicicleta** [aqui](https://github.com/lannacassio/Vendas-de-Bicicleta)
   
-  Análise de dados do desempenho de cada loja em um e-commerce de veículos utilizando SQL e Tableau.
+  Análise de dados do desempenho de cada loja de bicicleta utilizando Excel e Power BI.
 
 * **Sample- Superstore Sales** [aqui](https://github.com/lannacassio/Sample---Superstore-Sales.git)
   
