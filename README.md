@@ -25,7 +25,7 @@ Planejo em Fevereiro de 2026 inicializar a especialização em Analytics e Busin
   
   Análise de dados do compartilhamento de bicicletas da Cyclistic utilizando R e Tableau.
 
-* **Dashboard de vendas** [aqui](https://github.com/lannacassio/Dashboard_vendas.git)
+* **Vendas de Bicicleta** [aqui](https://github.com/lannacassio/Vendas-de-Bicicleta)
   
   Análise de dados do desempenho de cada loja em um e-commerce de veículos utilizando SQL e Tableau.
 
@@ -39,7 +39,7 @@ Planejo em Fevereiro de 2026 inicializar a especialização em Analytics e Busin
 * Excel
 * Power BI
 
-## 📖 Atualmente estou lendo...
+## 📖 Livros que atualmente estou lendo...
 
 * Storytelling com Dados: um Guia Sobre Visualização de Dados Para Profissionais de Negócios
 *  Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython
