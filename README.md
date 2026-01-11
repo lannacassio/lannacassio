@@ -29,9 +29,9 @@ Planejo em Fevereiro de 2026 inicializar a especialização em Analytics e Busin
   
   Análise de dados do desempenho de cada loja de bicicleta utilizando Excel e Power BI.
 
-* **Sample- Superstore Sales** [aqui](https://github.com/lannacassio/Sample---Superstore-Sales.git)
+* **Análise de Dados – OCD Patient Dataset (Demographics and Clinical Data)** [aqui](https://github.com/lannacassio/Conjunto-de-Dados-de-Pacientes-com-TOC-Dados-Demogr-ficos-e-Cl-nicos)
   
-  Análise de dados para responder 10 perguntas de negócio a partir de um dataset sobre uma rede de varejo utilizando Python.
+  Explorar dados sociodemográficos e clínicos de pacientes diagnosticados com TOC e responder a questões analíticas relacionadas a gênero, etnia, comorbidades, tipos de obsessão/compulsão, entre outros fatores.
 
 ## 🎒 Estou estudando no momento...
 
