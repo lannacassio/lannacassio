@@ -42,11 +42,6 @@ Olá! Sou Cássio, bacharel em Matemática pela Universidade Federal de Uberlân
 ## 💾 Certificados...
 * [Certificados](https://github.com/lannacassio/Certificados)
 
-## 🌱 Eterno Aprendiz...
-
-* Python
-* Excel
-* Power BI
 
 ## 📖 Livros que atualmente estou lendo...
 
