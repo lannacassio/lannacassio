@@ -2,22 +2,19 @@
 
 ## 🙍‍♂️ Sobre mim
 
-Sou formado em Matemática Bacharelado pela Universidade Federal de Uberlândia no ano de 2023.
+Olá! Sou Cássio, bacharel em Matemática pela Universidade Federal de Uberlândia (UFU), formado em 2023. Apaixonado por transformar dados em insights acionáveis, migrei para a área de Análise de Dados após descobrir seu potencial durante a graduação.
 
-Durante a graduação fiquei perdido sobre o que fazer após me formar, então em uma das palestras que participei conheci a área de dados. Sendo que no meu último ano da graduação consegui passar em um processo seletivo da Empresa Americanas para o curso de Capacitação em Ciência de Dados sendo ministrado pela Vai Academy, este curso abriu as portas e de modo que foi o meu primeiro contato com a área e suas tecnologias. 
+## Trajetória
 
-Concluindo as etapas e aprendendo o básico da área, fiz um teste e entrevista de modo que fui qualificado a fazer o curso completo de Ciência de Dados e fazendo um projeto ao final do curso utilizando dados reais da empresa. 
+  * 2022: Selecionado para o programa de Capacitação em Ciência de Dados da Americanas (em parceria com a Vai Academy). Desenvolvi meu primeiro projeto prático com dados reais da empresa.
 
-O meu primeiro projeto é o Cyclist onde utilizei o software R e a plataforma Tableau, de modo que eu o considero muito especial.
-
-Em 2023 trabalhei como docente de ensino de matemática em uma instituição pública, mas após a experiência percebi não ser algo do qual eu ansiava para o meu futuro. 
-
-Em 2024 decidi tentar ingressar  no mercado empresarial, porém não obrtive muita sorte por causa da minha falta de experiência. Deste modo trabalhei por mais de um ano em um supermercado para juntar dinheiro e 
-fazer o curso de Análise de Dados da DNC, onde melhorei o conhecimento em Excel, Python, SQL e Power BI.
-
-Em dezembro de 2025 consegui uma bolsa e inicalizei o curso Certificado Profissional de Análise de dados do Google [aqui](https://www.coursera.org/programs/analise-de-dados-2025-r6bop/professional-certificates/google-data-analytics?collectionId=FJOvw) onde estou adquirindo conhecimentos e habilidades em Ética, Validação, Limpeza, Storytelling e Visualização de Dados. Além disso, refinarei os meus conhecimentos em planilhas com o Google Sheets, SQL, a linguagem R e Tableau.
-
-Planejo em Fevereiro de 2026 inicializar a especialização em Analytics e Business Intelligence pela instituição da PUC Minas para me tornar um profissional capacitado e inicializar na área de dados. 
+  * 2023: Atuei como professor de Matemática em instituição pública, aprimorando habilidades de comunicação e explicação complexa.
+  
+  * 2024–2025: Investi em qualificação profissional com o curso de Análise de Dados da DNC (foco em Excel, Python, SQL e Power BI) enquanto trabalhava para custear os estudos.
+  
+  * Atualmente (2025–2026): Cursando o Certificado Profissional de Análise de Dados do Google, com ênfase em ética de dados, limpeza, validação, storytelling e visualização avançada (Google Sheets, SQL, R e Tableau).
+  
+  * Próximo passo: Início da especialização em Analytics e Business Intelligence pela PUC Minas em fevereiro de 2026.
 
 ## 📚 Alguns projetos...
 
