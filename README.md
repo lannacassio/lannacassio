@@ -18,9 +18,9 @@ Olá! Sou Cássio, bacharel em Matemática pela Universidade Federal de Uberlân
 
 ## 📚 Alguns projetos...
 
-* **Cyclistic** [aqui](https://github.com/lannacassio/Projeto-Cyclist.git)
+* **Fontes Renováveis ANEEL** [aqui](https://github.com/lannacassio/Fontes-Renovaveis-Aneel)
   
-  Análise de dados do compartilhamento de bicicletas da Cyclistic utilizando R e Tableau.
+  Análise sobre a atualização das fontes energéticas brasileiras utilizando Python e Power BI.
 
 * **Vendas de Bicicleta** [aqui](https://github.com/lannacassio/Vendas-de-Bicicleta)
   
